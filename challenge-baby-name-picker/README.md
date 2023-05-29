@@ -29,7 +29,7 @@ The later levels are suitable from students who have completed at least week 2 o
 
 **Don't** clone this repo.
 
-Make your own React app using `create-react-app`.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+Make your own React app using `create-react-app`.  See [(this guide)](https://syllabus.codeyourfuture.io/guides/creating-a-react-app) if you have forgotten how.
 
 Copy across the names file (or its contents) from this repo to your app, and then import from that file.
 

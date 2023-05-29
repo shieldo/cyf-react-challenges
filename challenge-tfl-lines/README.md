@@ -26,7 +26,7 @@ Later levels:
 
 **Don't** clone this repo.
 
-Make your own React app using `create-react-app`.  See [this guide](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+Make your own React app using `create-react-app`.  See [this guide](https://syllabus.codeyourfuture.io/guides/creating-a-react-app) if you have forgotten how.
 
 Write a plain HTML prototype (e.g. on CodePen). THEN, once you know the HTML you're attempting to create, work on the React version! This is not mandatory but it is recommended.
 

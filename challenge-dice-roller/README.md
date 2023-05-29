@@ -27,7 +27,7 @@ To complete levels 1 to 4, you will need knowledge of:
 
 **Don't** clone this repo.
 
-Make your own React app using `create-react-app`. See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+Make your own React app using `create-react-app`. See [(this guide)](https://syllabus.codeyourfuture.io/guides/creating-a-react-app) if you have forgotten how.
 
 ## GitHub & Hosting:
 

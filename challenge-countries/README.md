@@ -33,7 +33,7 @@ Later levels - React week 2:
 * Sign in to frontendmentor.io and download and expand the starter pack
 * Read the instructions and guidance in that pack.
 * Read Level 1 below, again!  It tells you what you can ignore!
-* Make your own React app using `create-react-app`.  See [(this guide)](https://docs.codeyourfuture.io/students/guides/creating-a-react-app) if you have forgotten how.
+* Make your own React app using `create-react-app`.  See [(this guide)](https://syllabus.codeyourfuture.io/guides/creating-a-react-app) if you have forgotten how.
 * Copy the [./countriesAll.json](./countriesAll.json) data file into your `src/` directory, and then import it.
 * Put your project on GitHub (see below)
 * Host it on Netlify (see below)
